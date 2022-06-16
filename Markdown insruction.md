@@ -19,6 +19,7 @@ Example:
 * Element 2
 * Element 3
 + Element 4
++ Element 5
 
 
 For adding numerated lists you need to highlite items with numbers (1.). 
@@ -34,6 +35,8 @@ To insert an images into text, just write the following:
 ![This is Nature](tree.jpeg)  
 
 ## Links
+
+Where could I find information about Links
 
 ## Working with tables
 
