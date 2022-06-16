@@ -19,7 +19,8 @@ Example:
 * Element 2
 * Element 3
 + Element 4
-+ Element 5
++ __*Element 5*__
++ *Elememt 6*
 
 
 For adding numerated lists you need to highlite items with numbers (1.). 
